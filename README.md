@@ -30,4 +30,5 @@ Call 1-800-LOL-TPUS to order our limited-edition handcrafted artistan TPUs.
 ----
 
 Don't delay; train today!
- 
+
+Twitter: [@theshawwn](https://www.twitter.com/theshawwn)
