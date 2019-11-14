@@ -19,6 +19,12 @@ Have you ever wanted to...
 
 ... then [click here for a step-by-step walkthrough](https://colab.research.google.com/github/shawwn/colab-tricks/blob/master/ngrok-tricks.ipynb)!
 
+### # Scraping via Headless Chrome
+
+Want to capture a screenshot of a webpage, then morph it into a face using StyleGAN? Me neither! But now you can:
+
+https://twitter.com/pablorosales/status/1195121096904839173
+
 ### # Artisan TPUs
 
 Call 1-800-LOL-TPUS to order our limited-edition handcrafted artistan TPUs.
