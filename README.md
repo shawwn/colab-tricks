@@ -25,6 +25,12 @@ Want to capture a screenshot of a webpage, then morph it into a face using Style
 
 https://twitter.com/pablorosales/status/1195121096904839173
 
+### # Attention, your attention please!
+
+All you've ever wanted to know about attention in ML. Four great notebooks that will leave you wanting four more:
+
+https://twitter.com/zaidalyafeai/status/1196896576339431425
+
 ### # Artisan TPUs
 
 Call 1-800-LOL-TPUS to order our limited-edition handcrafted artistan TPUs.
