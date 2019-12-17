@@ -31,6 +31,12 @@ All you've ever wanted to know about attention in ML. Four great notebooks that 
 
 https://twitter.com/zaidalyafeai/status/1196896576339431425
 
+### # YOLO
+
+Slice and dice your images! Real-time image segmentation via YOLACT++:
+
+https://twitter.com/mrm8488/status/1206996284311298048
+
 ### # Artisan TPUs
 
 Call 1-800-LOL-TPUS to order our limited-edition handcrafted artistan TPUs.
